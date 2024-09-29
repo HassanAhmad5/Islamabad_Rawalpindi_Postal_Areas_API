@@ -1,5 +1,4 @@
-{
-  "cities": [
+[
     {
       "area_name": "Islamabad - Airport New Societies"
     },
@@ -274,4 +273,3 @@
       "area_name": "Rawalpindi - Westridge"
     }
   ]
-}
