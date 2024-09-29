@@ -1,0 +1,277 @@
+{
+  "cities": [
+    {
+      "area_name": "Islamabad - Airport New Societies"
+    },
+    {
+      "area_name": "Islamabad - Ali Pur"
+    },
+    {
+      "area_name": "Islamabad - B-17"
+    },
+    {
+      "area_name": "Islamabad - Bahria Enclave"
+    },
+    {
+      "area_name": "Islamabad - Bahria Town"
+    },
+    {
+      "area_name": "Islamabad - Bani Gala"
+    },
+    {
+      "area_name": "Islamabad - Bhara Kahu"
+    },
+    {
+      "area_name": "Islamabad - Chak Shahzad"
+    },
+    {
+      "area_name": "Islamabad - Chatta Bakhtawar"
+    },
+    {
+      "area_name": "Islamabad - D-12"
+    },
+    {
+      "area_name": "Islamabad - D-13"
+    },
+    {
+      "area_name": "Islamabad - D-17"
+    },
+    {
+      "area_name": "Islamabad - DHA"
+    },
+    {
+      "area_name": "Islamabad - E-10"
+    },
+    {
+      "area_name": "Islamabad - E-11"
+    },
+    {
+      "area_name": "Islamabad - E-18"
+    },
+    {
+      "area_name": "Islamabad - E-7"
+    },
+    {
+      "area_name": "Islamabad - E-8"
+    },
+    {
+      "area_name": "Islamabad - E-9"
+    },
+    {
+      "area_name": "Islamabad - F-10"
+    },
+    {
+      "area_name": "Islamabad - F-11"
+    },
+    {
+      "area_name": "Islamabad - F-17"
+    },
+    {
+      "area_name": "Islamabad - F-5"
+    },
+    {
+      "area_name": "Islamabad - F-6"
+    },
+    {
+      "area_name": "Islamabad - F-7"
+    },
+    {
+      "area_name": "Islamabad - F-8"
+    },
+    {
+      "area_name": "Islamabad - G-10"
+    },
+    {
+      "area_name": "Islamabad - G-11"
+    },
+    {
+      "area_name": "Islamabad - G-12"
+    },
+    {
+      "area_name": "Islamabad - G-13"
+    },
+    {
+      "area_name": "Islamabad - G-14"
+    },
+    {
+      "area_name": "Islamabad - G-15"
+    },
+    {
+      "area_name": "Islamabad - G-5"
+    },
+    {
+      "area_name": "Islamabad - G-6"
+    },
+    {
+      "area_name": "Islamabad - G-7"
+    },
+    {
+      "area_name": "Islamabad - G-8"
+    },
+    {
+      "area_name": "Islamabad - G-9"
+    },
+    {
+      "area_name": "Islamabad - Ghauri Town"
+    },
+    {
+      "area_name": "Islamabad - Gulberg"
+    },
+    {
+      "area_name": "Islamabad - H-10"
+    },
+    {
+      "area_name": "Islamabad - H-11"
+    },
+    {
+      "area_name": "Islamabad - H-12"
+    },
+    {
+      "area_name": "Islamabad - H-13"
+    },
+    {
+      "area_name": "Islamabad - H-15"
+    },
+    {
+      "area_name": "Islamabad - H-8"
+    },
+    {
+      "area_name": "Islamabad - H-9"
+    },
+    {
+      "area_name": "Islamabad - I-10"
+    },
+    {
+      "area_name": "Islamabad - I-11"
+    },
+    {
+      "area_name": "Islamabad - I-12"
+    },
+    {
+      "area_name": "Islamabad - I-14"
+    },
+    {
+      "area_name": "Islamabad - I-16"
+    },
+    {
+      "area_name": "Islamabad - I-8"
+    },
+    {
+      "area_name": "Islamabad - I-9"
+    },
+    {
+      "area_name": "Islamabad - Jhangi Syedian"
+    },
+    {
+      "area_name": "Islamabad - Jinnah Garden"
+    },
+    {
+      "area_name": "Islamabad - PWD"
+    },
+    {
+      "area_name": "Islamabad - Rawal Town"
+    },
+    {
+      "area_name": "Islamabad - Sihala"
+    },
+    {
+      "area_name": "Islamabad - Soan Garden"
+    },
+    {
+      "area_name": "Islamabad - Sohan"
+    },
+    {
+      "area_name": "Islamabad - Tarlai Kalan"
+    },
+    {
+      "area_name": "Islamabad - Tarnol"
+    },
+    {
+      "area_name": "Rawalpindi - Adyala"
+    },
+    {
+      "area_name": "Rawalpindi - Airport Society"
+    },
+    {
+      "area_name": "Rawalpindi - Bahria Town"
+    },
+    {
+      "area_name": "Rawalpindi - CBR Town"
+    },
+    {
+      "area_name": "Rawalpindi - Chaklala"
+    },
+    {
+      "area_name": "Rawalpindi - DHA"
+    },
+    {
+      "area_name": "Rawalpindi - Dhamyal"
+    },
+    {
+      "area_name": "Rawalpindi - Dhok Gangal"
+    },
+    {
+      "area_name": "Rawalpindi - Dhok Kala Khan"
+    },
+    {
+      "area_name": "Rawalpindi - Fizaiya Colony"
+    },
+    {
+      "area_name": "Rawalpindi - Gulraiz"
+    },
+    {
+      "area_name": "Rawalpindi - Humak"
+    },
+    {
+      "area_name": "Rawalpindi - IJP Road"
+    },
+    {
+      "area_name": "Rawalpindi - Khanna Pul"
+    },
+    {
+      "area_name": "Rawalpindi - Kuri Road"
+    },
+    {
+      "area_name": "Rawalpindi - Lalkurti"
+    },
+    {
+      "area_name": "Rawalpindi - Lohi Bhair"
+    },
+    {
+      "area_name": "Rawalpindi - Media Town"
+    },
+    {
+      "area_name": "Rawalpindi - Muslim Town"
+    },
+    {
+      "area_name": "Rawalpindi - National Police Foundation"
+    },
+    {
+      "area_name": "Rawalpindi - Pakistan Town"
+    },
+    {
+      "area_name": "Rawalpindi - Peshawar Road"
+    },
+    {
+      "area_name": "Rawalpindi - Raja Bazar"
+    },
+    {
+      "area_name": "Rawalpindi - Rawat"
+    },
+    {
+      "area_name": "Rawalpindi - Saddar"
+    },
+    {
+      "area_name": "Rawalpindi - Sadiqabad"
+    },
+    {
+      "area_name": "Rawalpindi - Satellite Town"
+    },
+    {
+      "area_name": "Rawalpindi - Tench"
+    },
+    {
+      "area_name": "Rawalpindi - Westridge"
+    }
+  ]
+}
